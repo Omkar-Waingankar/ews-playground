@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+    <s:Header>
+        <h:ServerVersionInfo MajorVersion="15" MinorVersion="1" MajorBuildNumber="2507"
+            MinorBuildNumber="35"
+            xmlns:h="http://schemas.microsoft.com/exchange/services/2006/types"
+            xmlns="http://schemas.microsoft.com/exchange/services/2006/types"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    </s:Header>
+    <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <m:GetItemResponse xmlns:m="http://schemas.microsoft.com/exchange/services/2006/messages"
+            xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types">
+            <m:ResponseMessages>
+                <m:GetItemResponseMessage ResponseClass="Success">
+                    <m:ResponseCode>NoError</m:ResponseCode>
+                    <m:Items>
+                        <t:Message>
+                            <t:ItemId
+                                Id="AQAPAHRlc3RAbnlsYXMuaW5mbwBGAAAE/WS9WdWISpVv9iZzojjeBwColNEj/TvPTqUR8aHNdtOrAAACAQwAAAColNEj/TvPTqUR8aHNdtOrAAL4XvdhAAAA"
+                                ChangeKey="CQAAABYAAAColNEj/TvPTqUR8aHNdtOrAAL4iMT3" />
+                            <t:ParentFolderId
+                                Id="AQAPAHRlc3RAbnlsYXMuaW5mbwAuAAAE/WS9WdWISpVv9iZzojjeAQColNEj/TvPTqUR8aHNdtOrAAACAQwAAAA="
+                                ChangeKey="AQAAAA==" />
+                            <t:ItemClass>IPM.Note</t:ItemClass>
+                            <t:Subject>bcc email to exchange w/ attachment</t:Subject>
+                            <t:Sensitivity>Normal</t:Sensitivity>
+                            <t:Body BodyType="HTML">&lt;html&gt;&#xD;
+                                &lt;head&gt;&#xD;
+                                &lt;meta http-equiv="Content-Type" content="text/html;
+                                charset=utf-8"&gt;&#xD;
+                                &lt;/head&gt;&#xD;
+                                &lt;body&gt;&#xD;
+                                &lt;div dir="ltr"&gt;bcc email to exchange w/ attachment&lt;br
+                                clear="all"&gt;&#xD;
+                                &lt;div&gt;&lt;br&gt;&#xD;
+                                &lt;/div&gt;&#xD;
+                                &lt;span class="gmail_signature_prefix"&gt;--
+                                &lt;/span&gt;&lt;br&gt;&#xD;
+                                &lt;div dir="ltr" class="gmail_signature"
+                                data-smartmail="gmail_signature"&gt;&#xD;
+                                &lt;div dir="ltr"&gt;&lt;span&gt;&#xD;
+                                &lt;div dir="ltr" style="margin-left:0pt" align="left"&gt;&#xD;
+                                &lt;table style="border:none;border-collapse:collapse"&gt;&#xD;
+                                &lt;colgroup&gt;&lt;col width="84"&gt;&lt;col
+                                width="540"&gt;&lt;/colgroup&gt;&#xD;
+                                &lt;tbody&gt;&#xD;
+                                &lt;tr style="height:79pt"&gt;&#xD;
+                                &lt;td style="vertical-align:top;padding:5pt 5pt 5pt
+                                5pt;overflow:hidden"&gt;&#xD;
+                                &lt;p dir="ltr"
+                                style="line-height:1.2;margin-top:0pt;margin-bottom:0pt"&gt;&lt;span
+                                style="font-size:11pt;font-family:Poppins,sans-serif;color:rgb(0,0,0);background-color:transparent;vertical-align:baseline;white-space:pre-wrap"&gt;&lt;span
+                                style="border:none;display:inline-block;overflow:hidden;width:70px;height:56px"&gt;&lt;img
+                                src="https://lh6.googleusercontent.com/zLMqwKm7nnCGoEqvEghJmy4SEXraX2iljbDKbAB-XE0J0z1QftI_BEAaVtcneUL5M8sZdlqp1qyE7fGQPKg1PRxb2-e-PXWrAx7svsKCc8rB-NawGSBbqz835GCdZBnuQ8-YJtwo_awDOp1F-A"
+                                width="70" height="56"
+                                style="margin-left:0px;margin-top:0px"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+                                &lt;/td&gt;&#xD;
+                                &lt;td style="vertical-align:top;padding:5pt 5pt 5pt
+                                5pt;overflow:hidden"&gt;&#xD;
+                                &lt;p dir="ltr"
+                                style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt"&gt;&#xD;
+                                &lt;span
+                                style="font-size:10pt;font-family:Poppins,sans-serif;color:rgb(0,0,0);background-color:transparent;vertical-align:baseline;white-space:pre-wrap"&gt;Omkar
+                                Waingankar&lt;/span&gt;&lt;/p&gt;&#xD;
+                                &lt;p dir="ltr"
+                                style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"&gt;&lt;span
+                                style="font-size:8pt;font-family:Poppins,sans-serif;color:rgb(0,0,0);background-color:transparent;vertical-align:baseline;white-space:pre-wrap"&gt;Software
+                                Engineer,&#xD;
+                                &lt;/span&gt;&lt;a href="https://www.nylas.com/"
+                                target="_blank"&gt;&lt;span
+                                style="font-size:8pt;font-family:Poppins,sans-serif;color:rgb(0,0,0);background-color:transparent;vertical-align:baseline;white-space:pre-wrap"&gt;Nylas&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xD;
+                                &lt;p dir="ltr"
+                                style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"&gt;&lt;span
+                                style="font-size:8pt;font-family:Poppins,sans-serif;color:rgb(0,0,0);background-color:transparent;vertical-align:baseline;white-space:pre-wrap"&gt;&lt;a
+                                href="mailto:omkar.w@nylas.com"
+                                target="_blank"&gt;omkar.w@nylas.com&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+                                &lt;p dir="ltr"
+                                style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"&gt;&lt;br&gt;&#xD;
+                                &lt;/p&gt;&#xD;
+                                &lt;/td&gt;&#xD;
+                                &lt;/tr&gt;&#xD;
+                                &lt;/tbody&gt;&#xD;
+                                &lt;/table&gt;&#xD;
+                                &lt;/div&gt;&#xD;
+                                &lt;/span&gt;&lt;/div&gt;&#xD;
+                                &lt;/div&gt;&#xD;
+                                &lt;/div&gt;&#xD;
+                                &lt;/body&gt;&#xD;
+                                &lt;/html&gt;&#xD;
+</t:Body>
+                            <t:Attachments>
+                                <t:FileAttachment>
+                                    <t:AttachmentId
+                                        Id="AQAPAHRlc3RAbnlsYXMuaW5mbwBGAAAE/WS9WdWISpVv9iZzojjeBwColNEj/TvPTqUR8aHNdtOrAAACAQwAAAColNEj/TvPTqUR8aHNdtOrAAL4XvdhAAAAARIAEAD6yeHs+gcBR6rpDWKrURuo" />
+                                    <t:Name>top5.txt</t:Name>
+                                    <t:ContentType>text/plain</t:ContentType>
+                                    <t:ContentId>f_ltrdbqv60</t:ContentId>
+                                </t:FileAttachment>
+                            </t:Attachments>
+                            <t:DateTimeReceived>2024-03-14T15:12:47Z</t:DateTimeReceived>
+                            <t:Size>33943</t:Size>
+                            <t:Importance>Normal</t:Importance>
+                            <t:IsSubmitted>false</t:IsSubmitted>
+                            <t:IsDraft>false</t:IsDraft>
+                            <t:IsFromMe>false</t:IsFromMe>
+                            <t:IsResend>false</t:IsResend>
+                            <t:IsUnmodified>true</t:IsUnmodified>
+                            <t:InternetMessageHeaders>
+                                <t:InternetMessageHeader HeaderName="Received">from
+                                    MBX092-E9-VA-3.exch092.serverpod.net (10.217.23.206) by
+                                    MBX092-E9-VA-2.exch092.serverpod.net (10.217.23.204) with
+                                    Microsoft SMTP Server (version=TLS1_2,
+                                    cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.1.2507.35
+                                    via Mailbox Transport; Thu, 14 Mar 2024 11:12:47 -0400</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Received">from
+                                    MBX092-E1-VA-5.exch092.serverpod.net (10.217.23.136) by
+                                    MBX092-E9-VA-3.exch092.serverpod.net (10.217.23.206) with
+                                    Microsoft SMTP Server (version=TLS1_2,
+                                    cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.1.2507.35;
+                                    Thu, 14 Mar 2024 11:12:47 -0400</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Received">from
+                                    aesmt092-co-1-2.serverpod.net (10.224.74.53) by
+                                    MBX092-E1-VA-5.exch092.serverpod.net (10.217.23.137) with
+                                    Microsoft SMTP Server (version=TLS1_2,
+                                    cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.1.2507.35
+                                    via Frontend Transport; Thu, 14 Mar 2024 11:12:47 -0400</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Received">from
+                                    aesc092-co-1-2.serverpod.net (aesc092-co-1-2.serverpod.net
+                                    [10.224.76.126]) (using TLSv1.3 with cipher
+                                    TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange ECDHE (P-256)
+                                    server-signature RSA-PSS (4096 bits) server-digest SHA256) (No
+                                    client certificate requested) by aesmt092-co-1.serverpod.net
+                                    (Postfix) with ESMTPS id AB6F618000C for
+                                    &lt;test@nylas.info&gt;; Thu, 14 Mar 2024 08:12:46 -0700 (PDT)</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Received">from
+                                    exmx092-co-1-2.serverpod.net (exmx092-co-1-2.serverpod.net
+                                    [10.224.72.49]) (using TLSv1.3 with cipher
+                                    TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange ECDHE (P-256)
+                                    server-signature RSA-PSS (4096 bits) server-digest SHA256) (No
+                                    client certificate requested) by aesmt092-co-1.serverpod.net
+                                    (Postfix) with ESMTPS id 6EB1A180010 for
+                                    &lt;test@nylas.info&gt;; Thu, 14 Mar 2024 08:12:46 -0700 (PDT)</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Received">from
+                                    mail-il1-f193.google.com (mail-il1-f193.google.com
+                                    [209.85.166.193]) (using TLSv1.3 with cipher
+                                    TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange ECDHE (P-256)
+                                    server-signature RSA-PSS (2048 bits) server-digest SHA256) (No
+                                    client certificate requested) by
+                                    west.smtp.mx.exch092.serverdata.net (Postfix) with ESMTPS id
+                                    3EC0B180009 for &lt;test@nylas.info&gt;; Thu, 14 Mar 2024
+                                    08:12:46 -0700 (PDT)</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Received">by
+                                    mail-il1-f193.google.com with SMTP id
+                                    e9e14a558f8ab-3667c65b7a6so3722595ab.2 for
+                                    &lt;test@nylas.info&gt;; Thu, 14 Mar 2024 08:12:46 -0700 (PDT)</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="DKIM-Signature">v=1;
+                                    a=rsa-sha256; c=relaxed/relaxed; d=nylas.com; s=google;
+                                    t=1710429165; x=1711033965; darn=nylas.info;
+                                    h=cc:to:subject:message-id:date:from:mime-version:from:to:cc:subject
+                                    :date:message-id:reply-to;
+                                    bh=NyM7/MQ6fcEfmeWY0ssijKt0Vl0car33FrJeCKxF7eU=;
+                                    b=IO5BmnE4tosLlKdfk3e3gOGgY+WnbIPXwhwcXVoYKiOol770NjXNx3J6Aq9gTs/uMR
+                                    Be/CzZ4Yu0eCS7raUsSEfwuMiSi5RvAjAqf2NiZj/53L343qx4P0ej+nKEP3Ld909P1o
+                                    ZbnKyueiH8INbhlu9Nly9G55XDQgeA2bh+OKw=</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Google-DKIM-Signature">v=1;
+                                    a=rsa-sha256; c=relaxed/relaxed; d=1e100.net; s=20230601;
+                                    t=1710429165; x=1711033965;
+                                    h=cc:to:subject:message-id:date:from:mime-version:x-gm-message-state
+                                    :from:to:cc:subject:date:message-id:reply-to;
+                                    bh=NyM7/MQ6fcEfmeWY0ssijKt0Vl0car33FrJeCKxF7eU=;
+                                    b=KxP7OGl60k6WYo3dNvJ3VpJPXGE2cOiNrVOtDS0W1DPstHD5+1uj/uUmThYy63F49W
+                                    RdKY2ZJOF2+AUcNy3ezTao4eK5x10krcGon57HsdQUV/5cwq2qvWBPx7M6cAGrDhFmwn
+                                    Bt+Hw+PktFq2WIQHPm0H5SFba73O1S5TIKpcw4/IEG8wBKt1VXpnXHNwgJGKgmvkvd6o
+                                    NKXCL1NQPEa923+UtkGWOamY3Sno6pd50+fP4sSt3UBEDCfrhIymJ3pJnQUX0ODDQnIU
+                                    E7rjL/Ty+fxc4aDKNwtTYlmkaufSp2da2TG5bg7lduis2pGftTvuoPfdh6Pruf5OLNV/
+                                    ob7g==</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Forwarded-Encrypted">
+                                    i=1;
+                                    AJvYcCW+Sr3EZ2L1ks56aqMTEKd5ihMD0WMDnAPEUcQzdV1QXHoY5SyQ4QXIr4L0S/+za/wCJTeDaYg/NQv29I0AEzw=</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Gm-Message-State">AOJu0YwvFi+Ng/uVyFAbvXiwO5NQJARmbDq+huxHmutneTUN4rwLbO29
+                                    rfkPitiuGLJ1tV+ilqPZbZeK4FUgu8fqKru42FJBFrU/zCkKRkX1Kn7IJIQg64g4k8oRm/fC62Q
+                                    2ydI19kScwntQ1McYXXKfObKTaas8BmNv6DxtcA==</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Google-Smtp-Source">
+                                    AGHT+IFI4BNj/tDCeUVUBuR2ELt+bCYYwsBtFZDrQsZnm1jpb4/TmDCt08wxckuB9/fD8EnH9p8SRQ6SoNJ5PYB1vZw=</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Received">by
+                                    2002:a92:2a04:0:b0:365:1959:c288 with SMTP id
+                                    r4-20020a922a04000000b003651959c288mr494052ile.30.1710429165685;
+                                    Thu, 14 Mar 2024 08:12:45 -0700 (PDT)</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="MIME-Version">1.0</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Date">Thu, 14 Mar 2024 12:12:34
+                                    -0300</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Message-ID">
+                                    &lt;CAACJBOYS6nobtjc4wO95e-q8T-ob2XP1XfV_ReGHfpjTGvG94A@mail.gmail.com&gt;</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Subject">bcc email to exchange
+                                    w/ attachment</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Content-Type">multipart/mixed</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-CMAE-Score">0</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-CMAE-Analysis">v=2.4
+                                    cv=SpyDVdC0 c=1 sm=1 tr=0 ts=65f313ee
+                                    a=l8/Pew1WFHXMjPZfCEnE5g==:117 a=K6JAEmCyrfEA:10
+                                    a=xb6EAF_rAAAA:8 a=Eh6MowhFsn476vdDpCIA:9 a=QEXdDO2ut3YA:10
+                                    a=eqwTUgl3g4gA:10 a=vnFpwf0bAAAA:20 a=C-4-bpmDVUhFKu8IHsMA:9
+                                    a=RyXaSyfMsVFmTojo:21 a=lqcHg5cX4UMA:10 a=-0t3L8xuAAAA:20
+                                    a=_EwFAM_tp-tjtIOG9BoA:9 a=bJBjMteMB1dMz2Bd6ufx7w4eLW8=:19
+                                    a=CjuIK1q_8ugA:10 a=m-Z_27IZkzAA:10 a=6VK30XjFHl94bMxIAjiN:22</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-SOURCE-IP">209.85.166.193</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-SPF-STATUS">pass</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-SPF-FROM-STATUS">not_checked</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-RDNS-STATUS">fail</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-HELO-STRING">
+                                    mail-il1-f193.google.com</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-DMARC-STATUS">pass</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Authentication-Results">west.smtp.mx.exch092.serverdata.net;
+                                    iprev=fail ip=209.85.166.193; spf=pass client-ip=209.85.166.193
+                                    smtp.mailfrom=omkar.w@nylas.com; dkim=pass (1024-bit key)
+                                    header.i=@nylas.com; dmarc=pass header.from=nylas.com</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Spam-Stopper-Id">
+                                    c6c6c09f-3770-4e51-a9e7-a8dc36852a8c</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Spam-Stopper-v2">Yes</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Envelope-Mail-From">
+                                    omkar.w@nylas.com</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-AES-Category">LEGIT</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Spam-Reasons">{'verdict':
+                                    'clean', 'spamcause':
+                                    'gggruggvucftvghtrhhoucdtuddrgedvledrjeejgdejtdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucfkpffvgfftoffgfffktedpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucgoufhushhpvggtthfkmhhgffhomhgrihhnucdlfedtmdenucfjughrpegghfffkffuvfevtgesmhdtreertddtjeenucfhrhhomhepqfhmkhgrrhcuhggrihhnghgrnhhkrghruceoohhmkhgrrhdrfiesnhihlhgrshdrtghomheqnecuggftrfgrthhtvghrnhephfekfeekledvueekudefteefheffgfffjeeufeehjedvlefggeffieevtdffuedunecuffhomhgrihhnpehnhihlrghsrdgtohhmnecukfhppedvtdelrdekhedrudeiiedrudelfeenucevlhhushhtvghrufhiiigvpedtnecurfgrrhgrmhepihhnvghtpedvtdelrdekhedrudeiiedrudelfedpmhgrihhlfhhrohhmpehomhhkrghrrdifsehnhihlrghsrdgtohhmpdhnsggprhgtphhtthhopedupdhrtghpthhtohepthgvshhtsehnhihlrghsrdhinhhfohdpshhpfhepphgrshhspdgukhhimhepphgrshhspdhhvghlohepmhgrihhlqdhilhduqdhfudelfedrghhoohhglhgvrdgtohhm',
+                                    'internal': ['To="omkarw.work@gmail.com"
+                                    &lt;omkarw.work@gmail.com&gt;', 'From=Omkar Waingankar
+                                    &lt;omkar.w@nylas.com&gt;'], 'elapsed': '18ms'}</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Spam-Category">LEGIT</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-AES-Processing-Results">
+                                    eNrFVluv4jYQ/iuI5wUl5hLgqTSl7apnT4/OIrVqVUVO7BAXx05t5xwQ4r/v2ElIuETdlSpVvJC5fuOZ+ezT0LCcaoPzYrgaDJGHpiNvMvKnW3+28tFqOh/PppM/hh8GQ13gPNJGFgVVESPWPJnDz1umo0kQeKMpnfkjvKTBCC9IMpkvZggvktY1kYqC18Szkj0ropRxQ5UGmRUl2NCdVEf4PA3xbqeo1uyNus+Obvi0+enj1kU1CoK8MVXaEKLk/AzSXBKqwPxb/RTl+EDJt7oVGdMZEzsQpZhrahFgtafmWkaVkqrjVpUeKVpIZbRLyqUsoiSjyZ5ay2GBtQY8YGwypkiBlTlW+mttjhmPUi7frXjz+3bz+rx+sgp6gBQC8wgarPGO2jQX4UOD6A3d2hiu26Sb5/A1ev41CtdR+PMm/KXqbXqN6sMAOldysxq8uC9rgDnbCUpWg60qqfXCpcmoMAxOmklxXdB7xgyNYo5vK2WixqupgCa3aYU0A1wUHMLFnFam++NjTadhndA7LmMIzHIYbi3FA1QY0DbN74jtaN/2o21/198YnGQ5FH0XIW0E9YHbT8K0Rfyo7pu4Kpcq5vJwLS6FLmOdKBbTG4XiUaGkoUlTYzdVIiGXMFdit1XVhGwVNKUq7TSsOACTmbeYEzyaI5QAByB/tCRpOqI0SNE0ngSxF1SAWMooCR+tFiaEWTSY12rmhvXPv0BHgJ3YpSFOlGFBeIXCfbvlCmHv6wVrZuiJaeOQ5tgkWShLV5jnegQCSjaHwrGMFJd095pX+k/JFF3DxDZG8bE6z9AOYOV6vgzRb/9Harct10m7kdqD6Unfwv/+P4h0t92nZspf6imHz3XFCSA1QAq2jSKVKqHkc5F+6j2kjtG6meAaUL05G5GoY2GqeW7Mt1z/e0wwuo3ZqeQC9Yb2Ty1fXkohElhZfLxhkzomkD4/bmUrEBSr+PiD83ks/dTfhgdmn+ubtrZosIaX3a4Vp
+                                    aaqB+Odqg/BuaKUly6jwF0G/AvT+66YgZR28s93nNRnZfCuuhDB+G+I2YLKKK7or0lcCX5U0lGwzPdYjd+/E0eO9TgBoR00xqHmUBb1u4IQi7+ml/O5Jabo6v3xlS+Ar3wA9OxE783dTPLj6/Zmj5rLtTOdVOyYoNUpJlyWxCJyX/a1Zw96jKbwQFt4HkJoEdi/1y+wumgbTMsik7rr7fvjYIlmSxR4U7Sc+z7qdX6DBsErxyjZDYD88RzN/OV8NveRH0y8nuwuPZB97G43cJfFbGwOjprO5/MXo9iMBA==</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="X-Spam-Score">30</t:InternetMessageHeader>
+                                <t:InternetMessageHeader HeaderName="Return-Path">omkar.w@nylas.com</t:InternetMessageHeader>
+                                <t:InternetMessageHeader
+                                    HeaderName="X-MS-Exchange-Organization-Network-Message-Id">
+                                    4ae71841-2e3e-4292-2b87-08dc443934de</t:InternetMessageHeader>
+                                <t:InternetMessageHeader
+                                    HeaderName="X-MS-Exchange-Organization-AuthSource">
+                                    MBX092-E1-VA-5.exch092.serverpod.net</t:InternetMessageHeader>
+                                <t:InternetMessageHeader
+                                    HeaderName="X-MS-Exchange-Organization-AuthAs">Anonymous</t:InternetMessageHeader>
+                                <t:InternetMessageHeader
+                                    HeaderName="X-MS-Exchange-Transport-EndToEndLatency">
+                                    00:00:00.3258925</t:InternetMessageHeader>
+                                <t:InternetMessageHeader
+                                    HeaderName="X-MS-Exchange-Processed-By-BccFoldering">
+                                    15.01.2507.035</t:InternetMessageHeader>
+                            </t:InternetMessageHeaders>
+                            <t:DateTimeSent>2024-03-14T15:12:34Z</t:DateTimeSent>
+                            <t:DateTimeCreated>2024-03-14T15:12:47Z</t:DateTimeCreated>
+                            <t:ResponseObjects>
+                                <t:ReplyToItem />
+                                <t:ReplyAllToItem />
+                                <t:ForwardItem />
+                            </t:ResponseObjects>
+                            <t:DisplayCc>Omkar Waingankar</t:DisplayCc>
+                            <t:DisplayTo>omkarw.work@gmail.com</t:DisplayTo>
+                            <t:HasAttachments>true</t:HasAttachments>
+                            <t:Culture>en-US</t:Culture>
+                            <t:Sender>
+                                <t:Mailbox>
+                                    <t:Name>Omkar Waingankar</t:Name>
+                                    <t:EmailAddress>omkar.w@nylas.com</t:EmailAddress>
+                                    <t:RoutingType>SMTP</t:RoutingType>
+                                </t:Mailbox>
+                            </t:Sender>
+                            <t:ToRecipients>
+                                <t:Mailbox>
+                                    <t:Name>omkarw.work@gmail.com</t:Name>
+                                    <t:EmailAddress>omkarw.work@gmail.com</t:EmailAddress>
+                                    <t:RoutingType>SMTP</t:RoutingType>
+                                </t:Mailbox>
+                            </t:ToRecipients>
+                            <t:CcRecipients>
+                                <t:Mailbox>
+                                    <t:Name>Omkar Waingankar</t:Name>
+                                    <t:EmailAddress>omkarw.shop@gmail.com</t:EmailAddress>
+                                    <t:RoutingType>SMTP</t:RoutingType>
+                                </t:Mailbox>
+                            </t:CcRecipients>
+                            <t:IsReadReceiptRequested>false</t:IsReadReceiptRequested>
+                            <t:ConversationIndex>AQHadiISYgQYHICTdkKL6Z+rUs6G1A==</t:ConversationIndex>
+                            <t:ConversationTopic>bcc email to exchange w/ attachment</t:ConversationTopic>
+                            <t:From>
+                                <t:Mailbox>
+                                    <t:Name>Omkar Waingankar</t:Name>
+                                    <t:EmailAddress>omkar.w@nylas.com</t:EmailAddress>
+                                    <t:RoutingType>SMTP</t:RoutingType>
+                                </t:Mailbox>
+                            </t:From>
+                            <t:InternetMessageId>
+                                &lt;CAACJBOYS6nobtjc4wO95e-q8T-ob2XP1XfV_ReGHfpjTGvG94A@mail.gmail.com&gt;</t:InternetMessageId>
+                            <t:IsRead>true</t:IsRead>
+                        </t:Message>
+                    </m:Items>
+                </m:GetItemResponseMessage>
+            </m:ResponseMessages>
+        </m:GetItemResponse>
+    </s:Body>
+</s:Envelope>
